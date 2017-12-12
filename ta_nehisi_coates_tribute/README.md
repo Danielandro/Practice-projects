@@ -9,3 +9,6 @@ I chose to use author, journalist, comic book writer, and educator Ta-Nehisi Coa
 - [x]  I can view a tribute page with an image and text
 - [x]  I can click on a link that will take me to an external website with further information on the topic.
 
+
+
+![Ta-Nehisi Screenshot](https://github.com/Danielandro/Practice-projects/blob/master/ta_nehisi_coates_tribute/ta_nehisi_screenshot.png?raw=true)
